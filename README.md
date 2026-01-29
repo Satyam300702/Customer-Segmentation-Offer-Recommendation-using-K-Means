@@ -200,7 +200,7 @@ streamlit run app.py
 * Marketing analytics use‑case
 
 ---
-
+## Live Demo :- https://customer-segmentation-offer-recommendation-using-k-means-f4v2d.streamlit.app/
 ## 👨‍💻 Author
 
 **Satyam Kumar**
