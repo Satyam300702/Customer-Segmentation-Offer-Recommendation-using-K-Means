@@ -9,7 +9,7 @@ from sklearn.cluster import KMeans
 st.set_page_config(page_title="Customer Offer Recommendation System", layout="wide")
 st.title("Customer Offer Recommendation System")
 st.write("Predict Customer segment & suggest best marketing offer using KMeans")
-df = pd.read_csv(r"C:\Users\HP\OneDrive\Desktop\Mall_Customers.csv")
+df = pd.read_csv("data/Mall_Customers.csv")
 
 x = df.iloc[:,[3,4]].values
 
